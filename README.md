@@ -27,7 +27,3 @@ Coming soon...
 - I'm deeply fascinated by wireless networking. I've spent countless hours tweaking router settings to push the boundaries of internet speed.
 - DIY network optimization is my weekend hobby. There's a certain thrill in squeezing every bit of speed from a wireless connection.
 
----
-
-Feel free to fork this template and make it your own. Happy coding!
-
